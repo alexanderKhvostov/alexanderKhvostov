@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there, I'm Vsevolod Bondar 👋
+### Hi there, I'm Alexandr Khvostov 👋
 
 ## I'm a Full Stack JS Developer!
 - 🌱 I'm currently interesting in everything related to JS, Cloud, Mobile Development and Databases
