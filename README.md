@@ -47,6 +47,4 @@ Here are some ideas to get you started:
 
 ---
 
-<img align="left" alt="Satheesh Valluru's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vsevolodbvd&show_icons=true&hide_border=true" />
-
 [linkedin]: https://www.linkedin.com/in/aleksandr-khvostov-6a1182100/
